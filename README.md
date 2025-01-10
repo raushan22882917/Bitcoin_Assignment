@@ -3,6 +3,9 @@
 ## Overview
 This project is a cryptocurrency tracking application that displays the latest Bitcoin prices, trending coins, and related information. The application is designed to be visually appealing and fully responsive, following the provided Figma design.
 
+**Live Application:** [https://bitcoin-assignment.vercel.app/](https://bitcoin-assignment.vercel.app/)  
+**GitHub Repository:** [https://github.com/raushan22882917/Bitcoin_Assignment](https://github.com/raushan22882917/Bitcoin_Assignment)
+
 ---
 
 ## Features
@@ -80,8 +83,8 @@ This project is a cryptocurrency tracking application that displays the latest B
 ### Steps
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/bitcoin-tracker.git
-   cd bitcoin-tracker
+   git clone https://github.com/raushan22882917/Bitcoin_Assignment.git
+   cd Bitcoin_Assignment
    ```
 
 2. **Install Dependencies**  
@@ -107,12 +110,12 @@ This project is a cryptocurrency tracking application that displays the latest B
 ---
 
 ## Deployment
-The application can be deployed using platforms like [Netlify](https://www.netlify.com/) or [Vercel](https://vercel.com/). Follow the respective documentation for deployment steps.
+The application is deployed on **Vercel** and is live at:  
+[https://bitcoin-assignment.vercel.app/](https://bitcoin-assignment.vercel.app/)
 
 ---
 
 ## API References
 - **Coingecko API Documentation:** [https://www.coingecko.com/api/documentation](https://www.coingecko.com/api/documentation)  
 - **TradingView Widget Documentation:** [https://www.tradingview.com/widget-docs/widgets/charts/advanced-chart/](https://www.tradingview.com/widget-docs/widgets/charts/advanced-chart/)
-
 
